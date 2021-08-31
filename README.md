@@ -1,4 +1,4 @@
-# Ecological-opportunity-and-adaptive-radiations-reveal-eco-evolutionary-perspectives-on-community-str
+# Ecological-opportunity-and-adaptive-radiations-reveal-eco-evolutionary-perspectives-on-community-structure
 
 # Model code, general instructions
 The model presented in the main text of the Scientific Reports paper “Ecological opportunity and adaptive radiations reveal eco-evolutionary perspectives on community structure in competitive communities” is implemented in its basic form as MATLAB (version R2017b) code. To run the model “main.m” should be executed in the same directory as the other m-files. The code is commented within each m-file, below we present general features and key components of the implementation.
